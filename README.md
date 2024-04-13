@@ -30,8 +30,3 @@ PyInsights is designed to be your go-to resource for learning and practicing dat
 3. Follow along with the tutorials, experiment with the code, and learn at your own pace.
 4. Contribute your own data analysis projects or suggest improvements to existing content to enrich the repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Let's embark on a journey of discovery and insight together with PyInsights!
