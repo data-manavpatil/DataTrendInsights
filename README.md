@@ -1,10 +1,10 @@
-# Unlocking Insights: Descriptive Statistics with Python for Data Trend Analysis
+# DataTrendInsights
 
-Welcome to "Unlocking Insights: Descriptive Statistics with Python for Data Trend Analysis," your hub for exploring Python-based data analytics and visualization techniques. This repository is dedicated to providing a comprehensive collection of projects and tutorials aimed at mastering the art of data analysis and visualization using Python.
+Welcome to **DataTrendInsights**, your hub for exploring Python-based data analytics and visualization techniques. This repository is dedicated to providing a comprehensive collection of projects and tutorials aimed at mastering the art of data analysis and visualization using Python.
 
 ## Overview
 
-"Unlocking Insights" is designed to be your go-to resource for learning and practicing data analytics techniques in Python. Whether you're a beginner looking to dive into data exploration or an experienced data scientist seeking advanced visualization methods, "Unlocking Insights" has something for you.
+**DataTrendInsights** is designed to be your go-to resource for learning and practicing data analytics techniques in Python. Whether you're a beginner looking to dive into data exploration or an experienced data scientist seeking advanced visualization methods, **DataTrendInsights** has something for you.
 
 ## Key Features
 
@@ -30,3 +30,7 @@ Welcome to "Unlocking Insights: Descriptive Statistics with Python for Data Tren
 2. Explore the `notebooks/` directory to access Jupyter notebooks containing tutorials and examples.
 3. Follow along with the tutorials, experiment with the code, and learn at your own pace.
 4. Contribute your own data analysis projects or suggest improvements to existing content to enrich the repository.
+
+---
+
+Enjoy exploring data trends with **DataTrendInsights**!
